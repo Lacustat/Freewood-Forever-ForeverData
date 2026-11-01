@@ -2,7 +2,7 @@
 ## Title: Freewood |cffc89b3cForever Data|r
 ## Notes: Starter data for the Freewood Codex, collected by players in Forever: quests with chains, creatures, drops, paths, ships and zeppelins. Your own data always wins.
 ## Notes-deDE: Startdaten für den Freewood-Codex, von Spielern in Forever gesammelt: Quests mit Ketten, Kreaturen, Beute, Wege, Schiffe und Zeppeline. Eigene Daten gehen immer vor.
-## Author: Dominik (Daten: Freewood-Spieler)
+## Author: Lacustat (Daten: Freewood-Spieler)
 ## Version: 0.3.0
 ## LoadOnDemand: 1
 ## IconTexture: Interface\Icons\INV_Misc_Map_01
