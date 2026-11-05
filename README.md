@@ -1,4 +1,4 @@
-# Freewood-Forever-ForeverData
+# Freewood-ForeverData
 
 **Deutsch & English · German & English.** Autor · Author: Lacustat. Version 0.3.0 · Interface 16001 (World of Warcraft: Forever).
 
